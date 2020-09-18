@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathML", "MathML.csproj", "{2AE0115C-37B6-4B04-A978-C81615E8BB4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathML.xUnit", "..\MathML.xUnit\MathML.xUnit.csproj", "{0FFA784C-0C53-4D39-8A90-1C7ED990E8CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AE0115C-37B6-4B04-A978-C81615E8BB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE0115C-37B6-4B04-A978-C81615E8BB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE0115C-37B6-4B04-A978-C81615E8BB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE0115C-37B6-4B04-A978-C81615E8BB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FFA784C-0C53-4D39-8A90-1C7ED990E8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFA784C-0C53-4D39-8A90-1C7ED990E8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFA784C-0C53-4D39-8A90-1C7ED990E8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFA784C-0C53-4D39-8A90-1C7ED990E8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AB327EB-B77B-4A7E-B485-3B8E457CDC5A}
+	EndGlobalSection
+EndGlobal
